@@ -1,5 +1,3 @@
-package Sce;
-
 import java.util.Scanner;
 public class SumofArray {
 	public static int SumOfOperation(int[] arr) {
@@ -19,3 +17,4 @@ public class SumofArray {
 		System.out.println("Sum of the Array is "+SumOfOperation(arr));
 	}
 }
+
